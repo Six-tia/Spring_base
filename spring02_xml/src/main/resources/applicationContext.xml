@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--
+        bean元素：描述当前对象需要由spring管理
+        id：标志对象，未来在应用程序中可以用id来获取对象
+        class：被管理对象的类全名（包括package）
+    -->
+
+    <bean id="service" class="hello.MsgService"></bean>
+
+    <!--
+        property实现了依赖注入（DI）
+        此处msgService对应MegPrinter类中的private变量msgService
+        （msgService必须要有正规的setter（）函数，否则会报错）
+        ref为id-"service“的bean对应的id名
+    -->
+    <bean id="msgPrinter" class="hello.MegPrinter">
+        <property name="msgService" ref="service"></property>
+    </bean>
+
+</beans>

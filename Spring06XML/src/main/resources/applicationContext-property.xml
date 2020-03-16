@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:p="http://www.springframework.org/schema/p"
+       xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/util
+       http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean name="music1" class="soundSystem.Music">
+        <property name="pop" value="hot"></property>
+        <property name="duration" value="11"></property>
+    </bean>
+
+    <bean name="music2" class="soundSystem.Music">
+        <property name="pop" value="normal"></property>
+        <property name="duration" value="22"></property>
+    </bean>
+
+    <bean name="music3" class="soundSystem.Music"
+          p:pop = "normal"
+          p:duration="12">
+    </bean>
+
+    <bean name = "compactDisc1" class="soundSystem.compactDisc">
+        <property  name = "title" value="11"></property>
+        <property  name = "artist" value="jay"></property>
+        <property  name = "music3">
+            <array>
+                <ref bean="music1"></ref>
+                <ref bean="music2"></ref>
+            </array>
+        </property>
+    </bean>
+
+    <util:list id="musicArray">
+        <ref bean="music1"></ref>
+        <ref bean="music2"></ref>
+    </util:list>
+    <bean name = "compactDisc2" class="soundSystem.compactDisc">
+        <property  name = "title" value="11"></property>
+        <property  name = "artist" value="jay"></property>
+        <property  name = "music3" ref="musicArray">
+        </property>
+    </bean>
+
+    <bean name="cdplayer" class="soundSystem.CDPlayer">
+        <property name="cd" ref="compactDisc1"></property>
+    </bean>
+
+</beans>

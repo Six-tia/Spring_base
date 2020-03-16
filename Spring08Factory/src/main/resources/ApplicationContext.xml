@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- static factory -->
+    <bean id="person1" class="com.tiaedu.demo.PersonFactory" factory-method="createPerson1"/>
+    <!-- instance factory -->
+    <bean id="personFactory" class="com.tiaedu.demo.PersonFactory"/>
+    <bean id="person2" factory-bean="personFactory" factory-method="createPerson2"/>
+</beans>

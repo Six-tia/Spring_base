@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 此处id可以用name替换，两者作用相同 -->
+    <bean id="disc1" class = "soundSystem.compactDisc">
+        <constructor-arg value="I Do"></constructor-arg>
+        <constructor-arg value="22"></constructor-arg>
+    </bean>
+    <bean id="disc2" class = "soundSystem.compactDisc">
+        <constructor-arg name="artist" value="Jay"></constructor-arg>
+        <constructor-arg name="title" value="33"></constructor-arg>
+    </bean>
+    <bean id="disc9" class = "soundSystem.compactDisc">
+        <constructor-arg index="0" value="Jay"></constructor-arg>
+        <constructor-arg index="1" value="222"></constructor-arg>
+    </bean>
+
+<!--    <bean id="disc10" class = "soundSystem.compactDisc"-->
+<!--        c:artist="mfdkw"-->
+<!--          c:title="dw">-->
+<!--    </bean>-->
+
+<!--    <bean id="disc11" class = "soundSystem.compactDisc"-->
+<!--          c:_0="mfdkw"-->
+<!--          c:_1="dw">-->
+<!--    </bean>-->
+
+<!--    <bean id="disc12" class = "soundSystem.compactDisc">-->
+<!--        <constructor-arg name="artist" value="Jay"></constructor-arg>-->
+<!--        <constructor-arg name="title" value="33"></constructor-arg>-->
+<!--        <constructor-arg name="musics">-->
+<!--            <list>-->
+<!--                <value>331</value>-->
+<!--                <value>332</value>-->
+<!--                <value>333</value>-->
+<!--            </list>-->
+<!--        </constructor-arg>-->
+<!--    </bean>-->
+
+    <bean id="disc13" class = "soundSystem.compactDisc">
+        <constructor-arg name="artist" value="Jay"></constructor-arg>
+        <constructor-arg name="title" value="33"></constructor-arg>
+        <constructor-arg name="musics">
+            <list>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+            </list>
+        </constructor-arg>
+    </bean>
+
+    <bean id="disc14" class = "soundSystem.compactDisc">
+        <constructor-arg name="artist" value="Jay"></constructor-arg>
+        <constructor-arg name="title" value="33"></constructor-arg>
+        <constructor-arg name="musics">
+            <list>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+            </list>
+        </constructor-arg>
+        <constructor-arg name="musics1">
+            <set>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+                <ref bean = "music2"></ref>
+            </set>
+        </constructor-arg>
+    </bean>
+
+    <bean id="disc15" class = "soundSystem.compactDisc">
+        <constructor-arg name="artist" value="Jay"></constructor-arg>
+        <constructor-arg name="title" value="33"></constructor-arg>
+        <constructor-arg name="musics">
+            <list>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+            </list>
+        </constructor-arg>
+        <constructor-arg name="musics1">
+            <set>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+                <ref bean = "music2"></ref>
+            </set>
+        </constructor-arg>
+        <constructor-arg name="music2">
+            <map>
+                <entry key = "m1" value-ref="music1" ></entry>
+                <entry key = "m2" value-ref="music2" ></entry>
+                <entry key = "m3" value-ref="music2" ></entry>
+            </map>
+        </constructor-arg>
+    </bean>
+
+    <bean id="disc16" class = "soundSystem.compactDisc">
+        <constructor-arg name="artist" value="Jay"></constructor-arg>
+        <constructor-arg name="title" value="33"></constructor-arg>
+        <constructor-arg name="musics">
+            <list>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+            </list>
+        </constructor-arg>
+        <constructor-arg name="musics1">
+            <set>
+                <ref bean = "music1"></ref>
+                <ref bean = "music2"></ref>
+                <ref bean = "music2"></ref>
+            </set>
+        </constructor-arg>
+        <constructor-arg name="music2">
+            <map>
+                <entry key = "m1" value-ref="music1" ></entry>
+                <entry key = "m2" value-ref="music2" ></entry>
+                <entry key = "m3" value-ref="music2" ></entry>
+            </map>
+        </constructor-arg>
+        <constructor-arg name="music3">
+            <array>
+                <ref bean="music1" ></ref>
+                <ref bean="music2" ></ref>
+            </array>
+        </constructor-arg>
+    </bean>
+
+    <!-- 在name中，通过分号，逗号，空格分开的名字，每一个都是此bean的别名-->
+    <bean name="disc3 disc4,disc5;disc6" class = "soundSystem.compactDisc"></bean>
+
+    <bean id="music1" class = "soundSystem.Music">
+        <constructor-arg value="popular"></constructor-arg>
+        <constructor-arg value="23"></constructor-arg>
+    </bean>
+
+    <bean id="music2" class = "soundSystem.Music">
+        <constructor-arg value="normal"></constructor-arg>
+        <constructor-arg value="12"></constructor-arg>
+    </bean>
+
+<!--    <bean id="cdplayer1" class = "soundSystem.CDPlayer">-->
+<!--        <constructor-arg ref="disc1" />-->
+<!--    </bean>-->
+
+<!--    <bean id="cdplayer2" class = "soundSystem.CDPlayer" c:cd-ref="disc2"></bean>-->
+
+    <bean id="cdplayer3" class = "soundSystem.CDPlayer" c:_0-ref="disc1" c:_1-ref="disc2"></bean>
+
+
+</beans>

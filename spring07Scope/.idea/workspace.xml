@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc29c747-92e0-49b6-a136-043633c10840" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIAUvHLTof2AwJJSdp3ftu9242" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tiaedu.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Notepad3Test.test">
+    <configuration name="Notepad2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07Scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.Notepad2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notepad2Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07Scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.Notepad2Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notepad3Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07Scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.Notepad3Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotepadTestAutowired.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07Scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.NotepadTestAutowired" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotepadTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07Scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.NotepadTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Notepad3Test.test" />
+        <item itemvalue="JUnit.Notepad2Test.test" />
+        <item itemvalue="JUnit.Notepad2Test" />
+        <item itemvalue="JUnit.NotepadTest.test" />
+        <item itemvalue="JUnit.NotepadTestAutowired.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc29c747-92e0-49b6-a136-043633c10840" name="Default Changelist" comment="" />
+      <created>1580723254121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580723254121</updated>
+      <workItem from="1580723258102" duration="8327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1239" height="102" key="GridCell.Tab.0.bottom" timestamp="1580801168085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580801168085" />
+    <state width="1239" height="102" key="GridCell.Tab.0.center" timestamp="1580801168085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580801168085" />
+    <state width="1239" height="102" key="GridCell.Tab.0.left" timestamp="1580801168085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580801168085" />
+    <state width="1239" height="102" key="GridCell.Tab.0.right" timestamp="1580801168085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580801168085" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1580799689913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580799689913" />
+    <state x="63" y="45" key="new project wizard" timestamp="1580800943294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580800943294" />
+  </component>
+</project>

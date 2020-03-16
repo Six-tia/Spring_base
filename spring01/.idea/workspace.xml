@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ce25b66-72dd-4dd6-99e7-f63d4ebcff82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsKCTRrahcN9DKalrSC7iKneIZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576139328976" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationSpring">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.Application" />
+      <module name="spring01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.ApplicationSpring" />
+      <module name="spring01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationSpring" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ce25b66-72dd-4dd6-99e7-f63d4ebcff82" name="Default Changelist" comment="" />
+      <created>1576136383881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576136383881</updated>
+      <workItem from="1576136403249" duration="1700000" />
+      <workItem from="1576138232881" duration="949000" />
+      <workItem from="1576139741752" duration="218000" />
+      <workItem from="1576139977142" duration="2794000" />
+      <workItem from="1576395601577" duration="5521000" />
+      <workItem from="1576566173834" duration="1214000" />
+      <workItem from="1576567460856" duration="631000" />
+      <workItem from="1576635544660" duration="154000" />
+      <workItem from="1582093507198" duration="1496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="1" key="#Project_Structure" timestamp="1576141163052">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="1" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1576141163052" />
+    <state x="233" y="1" key="#Updates" timestamp="1576140028612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="1" key="#Updates/0.0.1280.680@0.0.1280.680" timestamp="1576140028612" />
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1576397985970">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576397985970" />
+    <state x="457" y="97" key="FileChooserDialogImpl" timestamp="1576635698434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="457" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576635698434" />
+    <state width="1239" height="121" key="GridCell.Tab.0.bottom" timestamp="1576566067504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576566067504" />
+    <state width="1239" height="121" key="GridCell.Tab.0.center" timestamp="1576566067504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576566067504" />
+    <state width="1239" height="121" key="GridCell.Tab.0.left" timestamp="1576566067504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576566067504" />
+    <state width="1239" height="121" key="GridCell.Tab.0.right" timestamp="1576566067504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576566067504" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1576395688753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576395688753" />
+    <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1576397373192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1576397373192" />
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1576567462139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576567462139" />
+    <state x="63" y="0" key="new project wizard" timestamp="1576566060194">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576566060194" />
+  </component>
+</project>

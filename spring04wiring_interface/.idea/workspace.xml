@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e0ae6b6-d894-4772-a7eb-a87e98c956c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VSiNpU3lztnBn1lOiowtao9oZ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tiaedu.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerTest">
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04wiring_interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.web" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.web.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04wiring_interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.UserServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0ae6b6-d894-4772-a7eb-a87e98c956c9" name="Default Changelist" comment="" />
+      <created>1577252859752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577252859752</updated>
+      <workItem from="1577252864090" duration="10422000" />
+      <workItem from="1578470000829" duration="3966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="203" width="410" height="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577268755248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="203" width="410" height="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1577268755248" />
+    <state width="1239" height="85" key="GridCell.Tab.0.bottom" timestamp="1578726267524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578726267524" />
+    <state width="1239" height="85" key="GridCell.Tab.0.center" timestamp="1578726267523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578726267523" />
+    <state width="1239" height="85" key="GridCell.Tab.0.left" timestamp="1578726267523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578726267523" />
+    <state width="1239" height="85" key="GridCell.Tab.0.right" timestamp="1578726267524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578726267524" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1578551702077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578551702077" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578470059925">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578470059925" />
+    <state x="63" y="37" key="new project wizard" timestamp="1578554819385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="37" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1578554819385" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1578551695058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1578551695058" />
+    <state x="299" y="26" key="spring file set editor" timestamp="1578551634860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="26" key="spring file set editor/0.0.1280.680@0.0.1280.680" timestamp="1578551634860" />
+  </component>
+</project>

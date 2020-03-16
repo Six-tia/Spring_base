@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91075d0d-3c2d-421f-8456-113c5d3b824d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9HK5vkURzkMaMaK3znGrY3HFJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest.testAdd">
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring05javaConfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring05javaConfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDaoTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring05javaConfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.dao.userDaoTest" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDaoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring05javaConfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiaedu.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tiaedu.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tiaedu.demo.dao.userDaoTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.testAdd" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.userDaoTest.testAdd" />
+        <item itemvalue="JUnit.userDaoTest.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91075d0d-3c2d-421f-8456-113c5d3b824d" name="Default Changelist" comment="" />
+      <created>1578554823645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578554823645</updated>
+      <workItem from="1578554828423" duration="8862000" />
+      <workItem from="1579074694847" duration="3343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1578910033931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1578910033931" />
+    <state width="1239" height="104" key="GridCell.Tab.0.bottom" timestamp="1579157331012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="104" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579157331012" />
+    <state width="1239" height="104" key="GridCell.Tab.0.center" timestamp="1579157331012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="104" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579157331012" />
+    <state width="1239" height="104" key="GridCell.Tab.0.left" timestamp="1579157331011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="104" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579157331011" />
+    <state width="1239" height="104" key="GridCell.Tab.0.right" timestamp="1579157331012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="104" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579157331012" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1579083542016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579083542016" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579077070887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579077070887" />
+    <state x="142" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578726087959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1578726087959" />
+    <state x="63" y="37" key="new project wizard" timestamp="1579157002020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="37" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579157002020" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1579083525932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1579083525932" />
+    <state x="357" y="26" key="spring file set editor" timestamp="1579083540434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="26" key="spring file set editor/0.0.1280.680@0.0.1280.680" timestamp="1579083540434" />
+  </component>
+</project>
